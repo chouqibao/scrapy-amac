@@ -19,7 +19,7 @@ Scrapy吸引人的地方在于它是一个框架，任何人都可以根据需�
 
 ## Install
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 安装过程中如果提示缺少 Twisted, Pywin32 等库，可以在 **[https://www.lfd.uci.edu/](https://www.lfd.uci.edu/~gohlke/pythonlibs/)** 中根据自己 Python 版本下载。
 
@@ -51,7 +51,7 @@ pip install requirements.txt
     ```
 
 ## Documentation
-+ Scrapy 相关文档可参见 **[https://devguide.python.org/](https://devguide.python.org/)**
-+ Python 相关文档可参见 **[https://docs.scrapy.org/](https://docs.scrapy.org/)**
++ Python 相关文档可参见 **[https://devguide.python.org/](https://devguide.python.org/)**
++ Scrapy 相关文档可参见 **[https://docs.scrapy.org/](https://docs.scrapy.org/)**
 ## Releases
     仅供学习使用
